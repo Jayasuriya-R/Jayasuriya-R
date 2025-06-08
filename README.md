@@ -1,50 +1,84 @@
-Hi, I'm Surya 👋
-Welcome to my GitHub! I'm a passionate web developer with a focus on React.js and Redux. I’m constantly learning and building new projects to improve my skills and expand my knowledge.
+Hi, I'm Surya 👋 Welcome to my GitHub!
 
-🚀 Current Focus:
+I'm a passionate front-end web developer with a strong focus on React.js, Redux, and modern UI design. I love turning complex problems into simple, beautiful, and intuitive web experiences. I'm always building and learning, with a keen eye on performance and best practices.
 
-Mastering React.js and Redux for state management.
-Building scalable, responsive, and user-friendly web applications.
+🚀 Current Focus
 
-💻 Skills:
+Mastering React.js, Redux, and Next.js
+Creating scalable and responsive web applications
+Improving performance and optimizing code structure
 
-Languages: HTML, CSS, JavaScript (ES6+), Python.
-Frameworks & Libraries: React.js, Redux.
-Tools: Git, GitHub, Jest, Tailwind CSS.
-Database: SQL (Beginner).
+💻 Skills
 
-🛠️ Projects:
+Languages: HTML, CSS, JavaScript (ES6+), Python, SQL
+Frameworks & Libraries: React.js, Redux, Tailwind CSS
+Tools & Platforms: Git, GitHub, Firebase, Jest, Babel, VS Code, Vercel
+Backend Exposure: .NET (Certified), SQL Server
 
-1. Netflix Clone
-   
-A fully functional Netflix clone built with React.js and CSS. 
-Features: Movie Browsing: Search and filter movies from a list.
-User Authentication: Sign in to view personalized content.
-Responsive Design: Works across multiple devices, ensuring a smooth user experience. This project helped me dive deep into React concepts like hooks, props, and state management.
+Learning: Next.js
 
-2. To-Do List & Calculator App
-   
-A simple but effective To-Do List and Calculator app built using React.js:
-To-Do List: Add, delete, and mark tasks as completed.
-Calculator: A simple, functional calculator for basic arithmetic. This project sharpened my React skills and gave me a hands-on experience with state management and event handling.
+🛠️ Projects
 
-3. Advertisement Page
-   
-A static advertisement page built with HTML and CSS, featuring:
-Attractive layout with various ad components.
-Mobile-first design, optimized for responsiveness. This project allowed me to practice my HTML and CSS skills in a real-world-like scenario.
+🎥 Netflix-GPT Clone
 
-4. Food Ordering App
-   
-A dynamic Food Ordering app designed to simulate an online restaurant ordering system. Built with React.js:
-User Profile: Login, manage orders, and view order history.
-Menu Selection: Browse and order food from a categorized menu.
-Order Checkout: Add to cart, remove items, and finalize the order. This app helped me implement dynamic routing, form handling, and complex state management using Redux.
+A fully functional Netflix-like platform enhanced with GPT search features.
 
-🌱 Learning & Certifications:
+Tech: React.js, Redux, Firebase, Tailwind CSS, GPT API
 
-Completed beginner-level certifications in React, JavaScript, Python, and SQL from HackerRank.
-.NET Certification (Udemy).
+Features: Movie browsing, GPT-based smart search, user authentication, responsive layout
+
+Efficiency: Improved user experience by reducing redundant API calls and optimizing state management
+
+🎥 YouTube Clone
+
+A dynamic YouTube replica built with React and Tailwind CSS.
+
+Features: Video streaming, search functionality, responsive player, and routing
+
+Authentication: Firebase auth integrated
+
+Efficiency: Lazy loaded components, performance-optimized rendering
+
+🍽️ Swiggy Clone (Food Ordering App)
+
+Simulates a real-world food delivery app.
+
+Features: User login, menu listing, cart management, order history
+
+Tech: React.js, Redux, Firebase
+
+Efficiency: Used Redux for complex state and optimized renders
+
+📅 To-Do List & Calculator App
+
+React-based productivity tools.
+
+To-Do List: Add/delete tasks, mark completed
+
+Calculator: Functional calculator for arithmetic operations
+
+Skills Practiced: React state/event handling
+
+💼 Advertisement Page
+
+A static marketing page built with pure HTML and CSS.
+
+Design: Clean layout with attention to responsiveness
+
+Focus: Practiced HTML semantics and Flexbox/Grid
+
+💡 .NET Fullstack Project (Internal)
+
+Enterprise application with optimization tasks.
+
+Tech: .NET, SQL Server, JavaScript, Python
+
+Tasks: Performance tuning, backend interaction
+
+🌱 Learning & Certifications
+
+HackerRank: Certified in JavaScript, Python, SQL, and React
+Udemy: .NET Fullstack Development Certification
 
 📫 Let's Connect:
 
