@@ -1,90 +1,95 @@
-Hi, I'm Surya 👋 Welcome to my GitHub!
+# Hi, I'm Surya 👋  
 
-I'm a passionate front-end web developer with a strong focus on React.js, Redux, and modern UI design. I love turning complex problems into simple, beautiful, and intuitive web experiences. I'm always building and learning, with a keen eye on performance and best practices.
+🚀 **Front-End Web Developer | React.js | Redux | Next.js | UI Enthusiast**
 
-🚀 Current Focus
+I'm a passionate **front-end developer** who loves turning complex problems into **simple, beautiful, and intuitive web experiences**.  
+I focus on **React.js, Redux, and modern UI design**, with continuous learning in **Next.js** and performance optimization.  
 
-Mastering React.js, Redux, and Next.js
-Creating scalable and responsive web applications
-Improving performance and optimizing code structure
+---
 
-💻 Skills
+## 🔥 Current Focus
+- Mastering **React.js, Redux, and Next.js**  
+- Building **scalable, responsive web applications**  
+- Improving **performance & code architecture**  
 
-Languages: HTML, CSS, JavaScript (ES6+), Python, SQL
-Frameworks & Libraries: React.js, Redux, Tailwind CSS
-Tools & Platforms: Git, GitHub, Firebase, Jest, Babel, VS Code, Vercel
-Backend Exposure: .NET (Certified), SQL Server
+---
 
-Learning: Next.js
+## 💻 Skills
+- **Languages**: HTML, CSS, JavaScript (ES6+), Python, SQL  
+- **Frameworks & Libraries**: React.js, Redux, Tailwind CSS  
+- **Tools & Platforms**: Git, GitHub, Firebase, Jest, Babel, VS Code, Vercel  
+- **Backend Exposure**: .NET (Certified), SQL Server  
+- **Learning**: Next.js  
 
-🛠️ Projects
+---
 
-🎥 Netflix-GPT Clone
+## 🛠️ Projects
 
-A fully functional Netflix-like platform enhanced with GPT search features.
+### 🎥 Netflix-GPT Clone  
+A Netflix-like platform enhanced with GPT-powered search.  
+**Tech**: React.js, Redux, Firebase, Tailwind CSS, GPT API  
+- 🔍 Smart GPT-based movie search  
+- 🔐 Firebase authentication  
+- 📱 Fully responsive  
+- ⚡ Optimized state management & reduced redundant API calls  
 
-Tech: React.js, Redux, Firebase, Tailwind CSS, GPT API
+---
 
-Features: Movie browsing, GPT-based smart search, user authentication, responsive layout
+### 🎬 YouTube Clone  
+A dynamic YouTube replica built with React and Tailwind CSS.  
+**Features**:  
+- 📺 Video streaming & search  
+- 🔐 Firebase authentication  
+- 📱 Responsive player & routing  
+- ⚡ Lazy loading + performance-optimized rendering  
 
-Efficiency: Improved user experience by reducing redundant API calls and optimizing state management
+---
 
-🎥 YouTube Clone
+### 🍽️ Swiggy Clone (Food Ordering App)  
+A real-world food delivery simulation.  
+**Tech**: React.js, Redux, Firebase  
+- 👤 User login & menu listing  
+- 🛒 Cart management & order history  
+- ⚡ Optimized renders with Redux  
 
-A dynamic YouTube replica built with React and Tailwind CSS.
+---
 
-Features: Video streaming, search functionality, responsive player, and routing
+### 📅 To-Do List & Calculator  
+Simple productivity tools in React.  
+- ✅ Add/delete/mark tasks  
+- 🔢 Functional calculator for arithmetic operations  
+- 🎯 Practiced **React state & event handling**  
 
-Authentication: Firebase auth integrated
+---
 
-Efficiency: Lazy loaded components, performance-optimized rendering
+### 💼 Advertisement Page  
+A static responsive landing page built with pure HTML & CSS.  
+- 🎨 Clean layout with Flexbox/Grid  
+- 🏗️ Practiced semantic HTML  
 
-🍽️ Swiggy Clone (Food Ordering App)
+---
 
-Simulates a real-world food delivery app.
+### 🌐 .NET Fullstack Project (Internal @ Accenture)  
+Enterprise application with performance optimizations.  
+**Tech**: .NET, SQL Server, JavaScript, Python  
+- ⚡ Performance tuning  
+- 🔗 Backend interaction  
 
-Features: User login, menu listing, cart management, order history
+---
 
-Tech: React.js, Redux, Firebase
+## 🌱 Learning & Certifications
+- ✅ **HackerRank**: Certified in JavaScript, Python, SQL, React  
+- 🎓 **Udemy**: .NET Fullstack Development Certification  
 
-Efficiency: Used Redux for complex state and optimized renders
+---
 
-📅 To-Do List & Calculator App
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/jayasuriya-r/)  
+- 💻 [GitHub](https://github.com/Jayasuriya-R)  
+- 📧 Email: **jayasuryasurya933@gmail.com**  
 
-React-based productivity tools.
+---
 
-To-Do List: Add/delete tasks, mark completed
-
-Calculator: Functional calculator for arithmetic operations
-
-Skills Practiced: React state/event handling
-
-💼 Advertisement Page
-
-A static marketing page built with pure HTML and CSS.
-
-Design: Clean layout with attention to responsiveness
-
-Focus: Practiced HTML semantics and Flexbox/Grid
-
-💡 .NET Fullstack Project (Internal)
-
-Enterprise application with optimization tasks.
-
-Tech: .NET, SQL Server, JavaScript, Python
-
-Tasks: Performance tuning, backend interaction
-
-🌱 Learning & Certifications
-
-HackerRank: Certified in JavaScript, Python, SQL, and React
-Udemy: .NET Fullstack Development Certification
-
-📫 Let's Connect:
-
-LinkedIn: https://www.linkedin.com/in/jayasuriya-r/
-GitHub: https://github.com/Jayasuriya-R
-Email: jayasuryasurya933@gmail.com
-
-🤪 Fun Fact
-I may not be able to debug my code as fast as I'd like, but I sure can debug a pizza order. 🍕
+## 🤪 Fun Fact
+I may not debug my code as fast as I'd like,  
+but I sure can debug a pizza order 🍕😅  
