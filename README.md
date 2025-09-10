@@ -88,14 +88,6 @@ A static responsive landing page built with pure HTML & CSS.
 
 ---
 
-### 🌐 .NET Fullstack Project (Internal @ Accenture)  
-Enterprise application with performance optimizations.  
-**Tech**: .NET, SQL Server, JavaScript, Python  
-- ⚡ Performance tuning  
-- 🔗 Backend interaction  
-
----
-
 ## 🌱 Learning & Certifications  
 - ✅ **HackerRank**: Certified in JavaScript, Python, SQL, React  
 - 🎓 **Udemy**: .NET Fullstack Development Certification  
