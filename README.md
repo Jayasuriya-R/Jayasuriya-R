@@ -61,7 +61,7 @@ A dynamic YouTube replica built with React and Tailwind CSS.
 - 🔐 Firebase authentication  
 - 📱 Responsive player & routing  
 - ⚡ Lazy loading + performance-optimized rendering
-   🔗 Live Demo: https://youtube-clone-sable-three.vercel.app/
+🔗 Live Demo: https://youtube-clone-sable-three.vercel.app/
 
 ---
 
