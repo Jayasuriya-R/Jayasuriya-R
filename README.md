@@ -41,7 +41,7 @@ A WhatsApp-like real-time messaging app.
 - 👤 User authentication & profile management  
 - 📱 Mobile-first responsive design  
 - ⚡ Fast & scalable architecture  
-
+🔗 Live Demo: https://chat-app-rho-gold.vercel.app/
 ---
 
 ### 🎥 Netflix-GPT Clone  
@@ -51,7 +51,7 @@ A Netflix-like platform enhanced with GPT-powered search.
 - 🔐 Firebase authentication  
 - 📱 Fully responsive  
 - ⚡ Optimized state management & reduced redundant API calls  
-
+🔗 Live Demo: https://netflix-gpt-phi-weld.vercel.app/
 ---
 
 ### 🎬 YouTube Clone  
@@ -60,7 +60,8 @@ A dynamic YouTube replica built with React and Tailwind CSS.
 - 📺 Video streaming & search  
 - 🔐 Firebase authentication  
 - 📱 Responsive player & routing  
-- ⚡ Lazy loading + performance-optimized rendering  
+- ⚡ Lazy loading + performance-optimized rendering
+   🔗 Live Demo: https://youtube-clone-sable-three.vercel.app/
 
 ---
 
