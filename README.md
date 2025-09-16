@@ -110,13 +110,9 @@ A static responsive landing page built with pure HTML & CSS.
 
 ---
 
-## 🤪 Fun Fact  
-I may not debug my code as fast as I'd like,  
-but I sure can debug a pizza order 🍕😅📱 Mobile-first responsive design
-
-⚡ Fast & scalable architecture
-
-
+## 😎 Fun Fact  
+I may struggle with media queries,
+but I never struggle with pizza queries 🍕📱
 
 ---
 
