@@ -90,9 +90,8 @@ A static responsive landing page built with pure HTML & CSS.
 ---
 
 ## 🌱 Learning & Certifications  
-- ✅ **HackerRank**: Certified in JavaScript, Python, SQL, React  
-- 🎓 **Udemy**: .NET Fullstack Development Certification  
-
+- ✅ **HackerRank**: Certified in JavaScript, Python, SQL, React
+- 
 ---
 
 ## 📊 GitHub Stats  
