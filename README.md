@@ -111,7 +111,7 @@ A static responsive landing page built with pure HTML & CSS.
 
 ## 😎 Fun Fact  
 I may struggle with media queries,
-but I never struggle with pizza queries 🍕📱
+but I never struggle with pizza queries 📱
 
 ---
 
